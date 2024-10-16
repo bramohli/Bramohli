@@ -5,8 +5,8 @@
 // @description  Fill out Lexmark Label Request
 // @match        https://lexmarktoner.bgmailing.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bgmailing.com
-// @updateURL    https://raw.githubusercontent.com/bramohli/Bramohli/main/lexmark-form-filler.user.js
-// @downloadURL  https://raw.githubusercontent.com/bramohli/Bramohli/main/lexmark-form-filler.user.js
+// @updateURL    https://raw.githubusercontent.com/bramohli/Bramohli/main/lexmark-form-filler-0.2.user.js
+// @downloadURL  https://raw.githubusercontent.com/bramohli/Bramohli/main/lexmark-form-filler-0.2.user.js
 // @grant        none
 // ==/UserScript==
 
